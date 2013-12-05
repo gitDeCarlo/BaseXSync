@@ -1,0 +1,7 @@
+2013-11-25 09:46:28 INFO  BaseXSync:28 - Starting Publisher
+2013-11-25 09:46:28 INFO  BaseXSync:93 - Beginning publication of files at: /home/andrew/Nesstar/ch_fors_compass
+2013-11-25 09:46:28 INFO  Publisher:99 - No files to delete.
+2013-11-25 09:46:28 INFO  Publisher:119 - No updates at this point.
+2013-11-25 09:46:28 INFO  BaseXSync:102 - Publication complete.
+2013-11-25 09:46:28 INFO  BaseXSync:44 - All publish operations have been completed.
+Thank you for using the OpenMetadata Publisher.
